@@ -4,3 +4,5 @@ There some visualistions in folium in notebook and working with geojson. Datafil
 https://github.com/vladkozlovskii/dash_hexagons_svalbard
 
 https://dashhexsvalbard-mehqrigepa-oe.a.run.app/
+
+also here .nc and geotiff that I used for collect data and .csv and .geojson files that I got in the output
